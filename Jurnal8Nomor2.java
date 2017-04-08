@@ -4,7 +4,7 @@ public class Jurnal8Nomor2 {
 
     public static void main(String[]args){
         System.out.println("Wandita Judith Stephanie S.S (6706151171)");
-        System.out.println("");
+        System.out.println("Unchhhh");
         int l = 1;
         int tingkat = 10;
         int n = 12/2;
